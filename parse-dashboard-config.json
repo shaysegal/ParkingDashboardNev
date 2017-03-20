@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "https://pm-parse-server.herokuapp.com/parse",
+      "serverURL": "https://parkingnevserver.herokuapp.com/parse",
       "appId": "ParkingNav",
       "masterKey":"ParkingNav5777",
       "appName": "Parking",
